@@ -1,3 +1,5 @@
+#HADOOP CLUSTER Script written by RAHUL SIL.
+
 import os
 import time
 import subprocess
